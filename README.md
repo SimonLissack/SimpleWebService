@@ -1,0 +1,1 @@
+A simple web service using SOAP and Java EE.
